@@ -1,0 +1,8 @@
+Warning: 'anchor deploy' is deprecated. Use 'anchor program deploy' instead.
+Deploying cluster: https://api.devnet.solana.com
+Upgrade authority: /Users/valentin/solana-builders-2/w1-wallet/keys/main.json
+Deploying program "counter"...
+Program path: /Users/valentin/solana-builders-2/w5-anchor-counter/target/deploy/counter.so...
+Program ID: 673AWrposEH54uTFKn9fEi7L2z2jGEKG72F2CuDqG85E
+Deploy success
+Deploy signature: 4eWzVvFzfLXLwbwX1g3QTVEngauGAxQHRFt12fZ7Za9tZNA6kBrC7v3VdwQgFmvYNpdwY8DnGyzoRWCcL1zjejWC (slot 506337003)
