@@ -1,0 +1,10 @@
+payer:   Fo9Qwfn1DybRm6sPKY5SdwSPKSqA5xDKwFuU7CQpB3fS
+counter: 7xEfStoadtSQTuw72SsdCQ61Dx3tPVbWt3P6JZyD5CtU
+CreateAccount (System Program)   40 байт, rent 853440 lamports    https://explorer.solana.com/tx/3buPMnjZBCkSpHPqe9yS4YuKG8AVwrPx414unpETojzbBRLwKC6cRL9W2RTTkKnDwMzdoaD1fpTCpMBBDbB49hUZ?cluster=devnet
+Initialize                       count = 0                        https://explorer.solana.com/tx/45aBrgQkx8YJMZzo7KAt19WZCtmvygoNBZVnkKSZDM2tVQNJHBRuJCweFhVQrdb3XxLeeKoyDGHKvVNM4aWTBZin?cluster=devnet
+Increment #1                     count = 1                        https://explorer.solana.com/tx/25nXjXTp3nr3zA9B29xe81DLnC7BXL3hgAe9uZ7MakidZsLvuWfCTHqfSR5kipuAZPLYtzS2W9qVqfQhxtH5wTR1?cluster=devnet
+Increment #2                     count = 2                        https://explorer.solana.com/tx/4kP6HB9nhsLLe6Kr6heN6vgTbiWFZDzTN4FuCaiAByuT9agFNT8T6a6s2KcBWp1vWPkwWU9rgEAHPnKwr7g1pWAj?cluster=devnet
+Increment #3                     count = 3                        https://explorer.solana.com/tx/2uPokbWewQBNsYh5dW7KnpevQu7FcJi79SRyofkP4KZWz86GfKNgC6xsRBK9uD7ftdLCQh2aeDMeQtUS8TQGyDwG?cluster=devnet
+
+итог: count = 3, authority = Fo9Qwfn1DybRm6sPKY5SdwSPKSqA5xDKwFuU7CQpB3fS
+клиент потратил: 883440 lamports (rent счётчика 853440 + комиссии)
