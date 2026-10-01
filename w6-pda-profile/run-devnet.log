@@ -1,0 +1,10 @@
+cluster: devnet
+program: 4AfcqYFdk8xrHaePE1CoeW9mtjMYayd1Mj3cMkV8ugs2
+authority: Fo9Qwfn1DybRm6sPKY5SdwSPKSqA5xDKwFuU7CQpB3fS
+seeds: ["profile", authority]
+PDA: G5EM2XdPzGfaHcAyPRaFfXqTGXmCQvP3zNuaMagHZDUJ
+bump: 253
+create_profile	5dDy4hjuPwhNxabkpWw6bNPVwjBKxKj7yfEzncC8WTu3vXPGUoYhPqrXGcUufLATvx47QWc1tX9SjhbJt7vr2MuP	username=w6_builder
+update_profile	AP1wkBY12jJrmqE4Ld1WqHkkAHuhEXcdnVFGDc6997qyePh5BFyBpz5EvzNoZyP1N2yJoMfqXnZUEbLNFT3Lw5k	username=w6_builder_pda
+final: username=w6_builder_pda bio=Обновлено: username и bio меняются одной инструкцией bump=253
+spent lamports: 1965800
